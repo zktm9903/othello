@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1059534788225",
+    "project_id": "othello-d37af",
+    "storage_bucket": "othello-d37af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059534788225:android:b177a2e16edf4dd02f1f80",
+        "android_client_info": {
+          "package_name": "com.example.othello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059534788225-b8na99vdrqumhald6qbkoosq9t11rns7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.othello",
+            "certificate_hash": "c4dd577ac5fc122b6777acc41059beb2452c63be"
+          }
+        },
+        {
+          "client_id": "1059534788225-qf2dtbib3oflbdlnfp8ncuc1baq00o1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW_wxZPzdcI5wQBY0v4K2vDTpCltFLLmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059534788225-qf2dtbib3oflbdlnfp8ncuc1baq00o1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
